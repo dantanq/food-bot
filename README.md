@@ -1,2 +1,2 @@
-# food_bot
+# food-bot
 a bot which picks food
